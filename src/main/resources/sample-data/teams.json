@@ -1,0 +1,58 @@
+[
+  {
+    "id": "T01",
+    "name": "Ironbridge FC",
+    "city": "Ironbridge",
+    "league": "Synthetic Premier Division",
+    "foundedYear": 1901
+  },
+  {
+    "id": "T02",
+    "name": "Meridian United",
+    "city": "Meridian",
+    "league": "Synthetic Premier Division",
+    "foundedYear": 1911
+  },
+  {
+    "id": "T03",
+    "name": "Port Albans FC",
+    "city": "Port Albans",
+    "league": "Synthetic Premier Division",
+    "foundedYear": 1889
+  },
+  {
+    "id": "T04",
+    "name": "Redcastle Athletic",
+    "city": "Redcastle",
+    "league": "Synthetic Premier Division",
+    "foundedYear": 1922
+  },
+  {
+    "id": "T05",
+    "name": "Silverlake FC",
+    "city": "Silverlake",
+    "league": "Synthetic Premier Division",
+    "foundedYear": 1934
+  },
+  {
+    "id": "T06",
+    "name": "Northgate Rovers",
+    "city": "Northgate",
+    "league": "Synthetic Premier Division",
+    "foundedYear": 1905
+  },
+  {
+    "id": "T07",
+    "name": "Coastal City FC",
+    "city": "Coastal City",
+    "league": "Synthetic Premier Division",
+    "foundedYear": 1947
+  },
+  {
+    "id": "T08",
+    "name": "Highvale Wanderers",
+    "city": "Highvale",
+    "league": "Synthetic Premier Division",
+    "foundedYear": 1898
+  }
+]
